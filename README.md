@@ -56,5 +56,5 @@ The project uses historical parking data accessed directly from a Google Sheet v
 
 ## Files
 
-* `dynamic_parking_pricing_notebook`: The main notebook file containing all the code
+* `dynamic_parking_pricing_notebook.ipynb`: The main notebook file containing all the code
 * `parking_stream_full.csv`: A temporary CSV file generated during runtime from the Google Sheet data, used by Pathway for stream replay.
